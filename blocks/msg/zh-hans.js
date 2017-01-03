@@ -260,6 +260,7 @@ Blockly.Msg.WEBDUINO_BOARD_SAMPLING = "  类比取样";
 Blockly.Msg.WEBDUINO_USE = "使用";
 Blockly.Msg.WEBDUINO_CONNECT_TO = "连线至";
 Blockly.Msg.WEBDUINO_MARK_OR_FLY = "马克1号 或 Fly";
+Blockly.Msg.WEBDUINO_SMART = "Smart";
 
 // I/O Pins
 
@@ -586,13 +587,13 @@ Blockly.Msg.WEBDUINO_RFID_OUT = "讯号离开";
 Blockly.Msg.WEBDUINO_RFID_OFF = "停止侦测";
 
 /*
-    .                   .                       o8o            oooo  
-  .o8                 .o8                       `"'            `888  
-.o888oo oooo  oooo  .o888oo  .ooooo.  oooo d8b oooo   .oooo.    888  
-  888   `888  `888    888   d88' `88b `888""8P `888  `P  )88b   888  
-  888    888   888    888   888   888  888      888   .oP"888   888  
-  888 .  888   888    888 . 888   888  888      888  d8(  888   888  
-  "888"  `V88V"V8P'   "888" `Y8bod8P' d888b    o888o `Y888""8o o888o 
+    .                   .                       o8o            oooo
+  .o8                 .o8                       `"'            `888
+.o888oo oooo  oooo  .o888oo  .ooooo.  oooo d8b oooo   .oooo.    888
+  888   `888  `888    888   d88' `88b `888""8P `888  `P  )88b   888
+  888    888   888    888   888   888  888      888   .oP"888   888
+  888 .  888   888    888 . 888   888  888      888  d8(  888   888
+  "888"  `V88V"V8P'   "888" `Y8bod8P' d888b    o888o `Y888""8o o888o
   */
 
 // Tutorials - LED
@@ -648,7 +649,7 @@ Blockly.Msg.WEBDUINO_ULTRASONIC_MUSIC_PLAY_STOP = "停止";
 Blockly.Msg.WEBDUINO_ULTRASONIC_MUSIC_ADD = "放入音乐";
 
 Blockly.Msg.WEBDUINO_ULTRASONIC_YOUTUBE = "载入 Youtube 模组";
-Blockly.Msg.DEMO_YOUTUBE_VIDEO_ID = " 预设的影片："; 
+Blockly.Msg.DEMO_YOUTUBE_VIDEO_ID = " 预设的影片：";
 Blockly.Msg.DEMO_YOUTUBE_CHANGEID_ID = "影片，要更换的影片：";
 Blockly.Msg.WEBDUINO_ULTRASONIC_YOUTUBE_SET = "设定";
 Blockly.Msg.WEBDUINO_ULTRASONIC_YOUTUBE_VOLUME = "音量";
